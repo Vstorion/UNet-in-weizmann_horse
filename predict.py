@@ -40,7 +40,7 @@ dataloaders['val'] = DataLoader(
 
 data_sizes = {x:len(image_datasets[x]) for x in ['val']}
 
-path ="results"
+path ="results" 
 count = 0
 for file in os.listdir(path): #count file number for creating new mask 
     count = count+1
