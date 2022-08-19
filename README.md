@@ -13,11 +13,13 @@ This repository includes a plain implementation of UNet in weizmann_horse datase
 - 18 August 2022: upload, and this might be the final version If nothing unexpected
 
 ## Hint
-There might be a promblem that resultes in a wrong UNet model being downloaded.So you need click and open the `./best_UNet.pth` to download.(I am so sorry for that)
+There might be a promblem that resultes in a wrong UNet model being downloaded.So you need click and open the `./best_UNet.pth` to download,then replace the original one.
 
-There might be a promblem that resultes in a wrong UNet model being downloaded.So you need click and open the `./best_UNet.pth` to download.(I am so sorry for that)
+There might be a promblem that resultes in a wrong UNet model being downloaded.So you need click and open the `./best_UNet.pth` to download,then replace the original one.
 
-There might be a promblem that resultes in a wrong UNet model being downloaded.So you need click and open the `./best_UNet.pth` to download.(I am so sorry for that)
+There might be a promblem that resultes in a wrong UNet model being downloaded.So you need click and open the `./best_UNet.pth` to download,then replace the original one.
+
+(I am so sorry for that)
 
 ## Version
 The code has been tested on Python 3.9 and PyTorch 1.11.0. 
