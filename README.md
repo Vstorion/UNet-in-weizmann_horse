@@ -18,6 +18,8 @@ The code has been tested on Python 3.9 and PyTorch 1.11.0.
 And you can ran it on kaggle as well.
 
 ## A Quick Demo
+There might be a promblem that resultes in a wrong UNet model being downloaded.So you need click and open the `./best_UNet.pth` to download.(I am so sorry for that)
+
 I have included my pretrained model just in the current path and a demo image with the corresponding mask in `./demo`. Run the following command for a quick demonstration of it.Then you can find a predicted mask in `./demo/results`.
 
     python demo.py
