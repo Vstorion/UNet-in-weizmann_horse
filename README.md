@@ -14,7 +14,9 @@ This repository includes a plain implementation of UNet in weizmann_horse datase
 
 ## Hint
 There might be a promblem that resultes in a wrong UNet model being downloaded.So you need click and open the `./best_UNet.pth` to download.(I am so sorry for that)
+
 There might be a promblem that resultes in a wrong UNet model being downloaded.So you need click and open the `./best_UNet.pth` to download.(I am so sorry for that)
+
 There might be a promblem that resultes in a wrong UNet model being downloaded.So you need click and open the `./best_UNet.pth` to download.(I am so sorry for that)
 
 ## Version
