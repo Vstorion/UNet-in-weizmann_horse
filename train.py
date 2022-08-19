@@ -119,7 +119,7 @@ if __name__ == '__main__':
     
     device = torch.device("cuda:0" if use_gpu else "cpu")
     
-    ########################## data process ##########################
+    ######################### data process #########################
     
     data_transforms = {
         'rpg': transforms.Compose([
