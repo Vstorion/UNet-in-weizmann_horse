@@ -47,7 +47,7 @@ class MyDataSet(Dataset):
                 image_map = self.data_transform['map'](maps)
             except:
                 pass
-                #print('can not load mask,just predict')
+                
         
         return image, image_map
     
