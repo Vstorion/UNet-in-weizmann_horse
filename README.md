@@ -45,7 +45,7 @@ $root
 ````
 
 ## Testing
-In order to get the results,you need to include your GTs in  `./predict/horse`,then run the following command to do segmentation:
+In order to get the results,don't need masks,you need to include your GTs in  `./predict/horse`,then run the following command to do segmentation:
 
     python predict.py
 
