@@ -55,4 +55,4 @@ Run the following command to train IndexNet Matting:
     python train.py
     
 you don't need too much time to get a new model
->>>>>>> 9c242d2 (提交文件)
+
