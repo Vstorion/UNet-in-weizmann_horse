@@ -31,7 +31,6 @@ image_datasets = {x:MyDataSet(
 ) for x in ['demo']}
 
 dataloaders = dict()
-
 dataloaders['demo'] = DataLoader(
     image_datasets['demo'],
     batch_size=1,
